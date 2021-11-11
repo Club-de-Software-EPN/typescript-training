@@ -1,6 +1,6 @@
 /*
     *
-    * TOPIC: Problems with JavaScript
+    * TOPIC: Unexpected behaviours using JavaScript
     * Cyber Security Team
     * 
 */
